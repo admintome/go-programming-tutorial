@@ -5,7 +5,7 @@ import (
 )
 
 var (
-	name []string
+	name [1]string
 )
 
 const (
